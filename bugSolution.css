@@ -1,0 +1,6 @@
+/* bugSolution.css */
+#element {
+  width: calc(100% - 20px);
+  /* Ensured proper unit handling and order of operations */
+}
+/* ... other styles ... */
